@@ -32,6 +32,12 @@ rails db:create
 rails db:migrate
 ```
 
+**Run the test**
+
+```
+rspec
+```
+
 **Run the project**
 
 ```

@@ -32,8 +32,17 @@ rails db:create
 rails db:migrate
 ```
 
+**Run the project**
+
+```
+rails s
+```
 
 ## Available API
+
+```
+url: http://localhost:3000/
+```
 
 ### User Registration
 ```
